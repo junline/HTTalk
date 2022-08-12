@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>talks.png</file>
+        <file>speaks.png</file>
+        <file>titles.png</file>
+    </qresource>
+</RCC>
